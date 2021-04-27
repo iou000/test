@@ -1,9 +1,2 @@
 add 
-edited in loccal 
-third
-<<<<<<< HEAD
-local 
-=======
->>>>>>> refs/remotes/origin/main
-remote
-iou000 
+edited by Github
